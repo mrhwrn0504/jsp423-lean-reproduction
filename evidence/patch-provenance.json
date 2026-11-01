@@ -1,0 +1,7 @@
+{
+  "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/patches/formalpantheon-v4.33.0.patch",
+  "full_upstream_patch_sha256": "f64377245e03f2cbcb9d9e43f2813d4f4c734dfcd4ddce8d44ae6cc554bd121d",
+  "extraction": "first diff section; remove one BoundedGaps path component",
+  "matches_local_fragment": true,
+  "fragment_sha256": "ae869ff390ee4b054e479ec53d8f5f834983f470d84abcbcb3cdfdce471dd631"
+}

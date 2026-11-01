@@ -1,0 +1,193 @@
+{
+  "status": "matched",
+  "protected_core_unchanged": true,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f826cb5ee0e5c5ad95c431d2c6f5705c3796e0649cf6b7ab14fe217934edb1e8",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "STATEMENT.md",
+      "sha256": "b1efcbe58afc88a0987522976787f9e1a95be010ba4302c2ea3428123856d3f3",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "d1d4ad37ac2af5a52c57dafc6219cf0f7db7ac08e8b5d48c04da5364a099eac1",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "REPRODUCTION.md",
+      "sha256": "9136e3916e06aaf2f5c4c948b0af1c3ee81f3856013db3c6c7bb73a134b2d4fe",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "BOOTSTRAP.md",
+      "sha256": "875cb07d57026a33910a8539e068e2c2d649e7c9397083b56a765390aaf88219",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "IMPROVEMENTS.md",
+      "sha256": "c74ff03c6e497e07a4905201674ca359b850589973447af7c9585ac2f5c4e0f7",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "reproduce.py",
+      "sha256": "0d0174ed80044c8035de6249567b6a0a6339bfb5a91d75743445a95944bb6ea0",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "audit.py",
+      "sha256": "8989d19b2794ed4ac0f6eb70378906c3e5e40721df6d8a2f5c9c099882925d30",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "review.py",
+      "sha256": "567a36b498ff47f002c1b4b2d7120354f21a87302c05bc67836650f4a97c644b",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "ReviewTargets.lean",
+      "sha256": "2b9444318302577e0351f9c907ddf5ecec0c28a67a2f49583632724a6f646ed3",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "package.py",
+      "sha256": "f45da9313dc68661123843636c0a5c2e3cb65b07d72b5263df651584eca26492",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "NoSquareSumHypothesis.lean",
+      "sha256": "d948eeb708c3d52f6ed5f7bfafc53029fdebd222579bc11d91900b6eb8c2e38d",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "ExactStatement.lean",
+      "sha256": "b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "check_exact.py",
+      "sha256": "a37f22ce851e0d0ead47e5d0457a88ed072f6266afd16c3ff79b4920b58e663f",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "test_input_binding.py",
+      "sha256": "9b34cbf389e34bd1438a9bf790c799dadb857d615f42264bd36359b93834f0c1",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "REVIEW-PACKET.md",
+      "sha256": "c492f242dc854e61da680cd1be83f586fb1ff839d66e23b606e7d6fe80f8597a",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "verify.py",
+      "sha256": "b37646842b264f185dd6c703e7b74fb4deb5ccb6681075ef4524c7c50efee20b",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "targets.json",
+      "sha256": "c07bfddb1764b25ec62687f367ba89e131d69e276528dab3359ac8787ae96f82",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "b5b8c7b550e183007af3d6c5e546cb95cd637afba78936da2f01dc3edeb63416",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "replay.py",
+      "sha256": "a6cadbc93c44a7ceb06ac4833853de404ff5370bfa9e196de5bab07aee40a112",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "incremental.py",
+      "sha256": "afc877e8f83fac3573b81619ab47e304ca21e48a71e7dc25b5fd97fdcff05c0e",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "test_incremental.py",
+      "sha256": "243ce115f5482165dff8f202e795cdf4926f4f88a465e064a5eb1ebf43fec8d5",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "delivery_checks.py",
+      "sha256": "23fccc3ebaf4017bec3b2ba80e902e81738d6c1ea75787f9060c18f343deda81",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "test_delivery_checks.py",
+      "sha256": "97ce7e7c52451679ef216267ca96177883a60cee52c3617a46ee2d6e8f73663b",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "sources.lock.json",
+      "sha256": "7f22a9cdeb0a92e7cb1c8c801a269bf82216375c48c206eedffe6bcba6df5b39",
+      "verified_core": true,
+      "already_identical": true
+    },
+    {
+      "path": "lean-toolchain",
+      "sha256": "b2b5068d5a4835675e651ce83b29c0ddb308d28b80076e7c007aef4630af0477",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "b6ca74161d254e15228ebf15e6f41917e7c21a9e71b4751dfa2afe7aff5307f9",
+      "verified_core": false,
+      "already_identical": false
+    },
+    {
+      "path": "patches/kernel-v4.33.0.patch",
+      "sha256": "ae869ff390ee4b054e479ec53d8f5f834983f470d84abcbcb3cdfdce471dd631",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "licenses/Apache-2.0.txt",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "licenses/plby-latest-NOTICE.txt",
+      "sha256": "41e26750cf7403beef1b82310454ca79eb1da04b1dab82d4d42f377e15c01ea9",
+      "verified_core": false,
+      "already_identical": true
+    },
+    {
+      "path": "licenses/sources.json",
+      "sha256": "347c6d4d1641d3ca8c2cce5792e672de4bef3d1d59f597655db5213f0346a560",
+      "verified_core": false,
+      "already_identical": true
+    }
+  ],
+  "note": "Additional delivery scripts/docs updated only after proof-core byte identity was checked; absolute original receipts retained"
+}

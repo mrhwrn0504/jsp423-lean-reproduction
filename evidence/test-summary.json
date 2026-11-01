@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "finished_utc": "2026-11-01T08:42:21.117496+00:00",
+  "inputs": {
+    "test_input_binding.py": "9b34cbf389e34bd1438a9bf790c799dadb857d615f42264bd36359b93834f0c1",
+    "test_workflow.py": "b5b8c7b550e183007af3d6c5e546cb95cd637afba78936da2f01dc3edeb63416",
+    "test_incremental.py": "243ce115f5482165dff8f202e795cdf4926f4f88a465e064a5eb1ebf43fec8d5",
+    "test_delivery_checks.py": "97ce7e7c52451679ef216267ca96177883a60cee52c3617a46ee2d6e8f73663b",
+    "check_exact.py": "a37f22ce851e0d0ead47e5d0457a88ed072f6266afd16c3ff79b4920b58e663f",
+    "audit.py": "8989d19b2794ed4ac0f6eb70378906c3e5e40721df6d8a2f5c9c099882925d30",
+    "verify.py": "b37646842b264f185dd6c703e7b74fb4deb5ccb6681075ef4524c7c50efee20b",
+    "incremental.py": "afc877e8f83fac3573b81619ab47e304ca21e48a71e7dc25b5fd97fdcff05c0e",
+    "delivery_checks.py": "23fccc3ebaf4017bec3b2ba80e902e81738d6c1ea75787f9060c18f343deda81"
+  },
+  "tests": [
+    {
+      "test": "test_input_binding.py",
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-I",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\test_input_binding.py"
+      ],
+      "exit_code": 0,
+      "log_sha256": "f1b47c04cf0bee9d0970d83631aed53486c4c090a971da3fa3e366dcf9d927e1"
+    },
+    {
+      "test": "test_workflow.py",
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-I",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\test_workflow.py"
+      ],
+      "exit_code": 0,
+      "log_sha256": "841f2e259acab9df2b1a39cec859204b310bce945c8969be2add0272dc63fbc2"
+    },
+    {
+      "test": "test_incremental.py",
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-I",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\test_incremental.py"
+      ],
+      "exit_code": 0,
+      "log_sha256": "a8b891365bbb435bd7bed6c642219e70496046a553384837ec9931abce59a9b1"
+    },
+    {
+      "test": "test_delivery_checks.py",
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-I",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\test_delivery_checks.py"
+      ],
+      "exit_code": 0,
+      "log_sha256": "d276ce24f7df0df832d00f4a1a5c0f13780199247c21005b2c7d8868238f187a"
+    }
+  ],
+  "scope": "Temporary metadata/cache/workflow regression fixtures; not a mathematical proof checker"
+}

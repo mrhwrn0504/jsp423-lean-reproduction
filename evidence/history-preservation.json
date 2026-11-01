@@ -1,0 +1,128 @@
+{
+  "checked_utc": "2026-11-01T06:29:32.049553+00:00",
+  "scope": "20 files selected in the earlier snapshot; no recursive whole-drive claim",
+  "snapshot_sha256": "7cad41575bc7abfb7205a8f4192d7a2768540b1a63554e995d8dc39128fde82d",
+  "checks": [
+    {
+      "source": "G:\\jsp423_audit\\\u6838\u67e5\u62a5\u544a_2026-11-01.md",
+      "expected_sha256": "c7dcf14ed8b5016830a22fcdfbb6aa5b7ca7e482ef7df08e9dd7a3bc1c409070",
+      "actual_sha256": "c7dcf14ed8b5016830a22fcdfbb6aa5b7ca7e482ef7df08e9dd7a3bc1c409070",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\NoSquareSumHypothesis.lean",
+      "expected_sha256": "d948eeb708c3d52f6ed5f7bfafc53029fdebd222579bc11d91900b6eb8c2e38d",
+      "actual_sha256": "d948eeb708c3d52f6ed5f7bfafc53029fdebd222579bc11d91900b6eb8c2e38d",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\Erdos527.lean",
+      "expected_sha256": "4f9b02f27f12f79255a869a6b12fbd7daa91dcc503e0c0069b853a8ea4dfe0ac",
+      "actual_sha256": "4f9b02f27f12f79255a869a6b12fbd7daa91dcc503e0c0069b853a8ea4dfe0ac",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\completion_audit.json",
+      "expected_sha256": "ac85a0c095664eab17eae9a98fb8dce4fa050d8b34e5545e27be93fa14ccf4e9",
+      "actual_sha256": "ac85a0c095664eab17eae9a98fb8dce4fa050d8b34e5545e27be93fa14ccf4e9",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\source_inventory.json",
+      "expected_sha256": "5b0ff7435debe882e17042c9410fc78241df868e01645cbc072a9edb22312d07",
+      "actual_sha256": "5b0ff7435debe882e17042c9410fc78241df868e01645cbc072a9edb22312d07",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\compiled_modules.json",
+      "expected_sha256": "f103b1ab2ffe0a3f793d4b5496aa71710e949b6784aeec0aaefe43549f84f97a",
+      "actual_sha256": "f103b1ab2ffe0a3f793d4b5496aa71710e949b6784aeec0aaefe43549f84f97a",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\extension_and_axioms.log",
+      "expected_sha256": "ab8bd431a907e66a3f202fb347a3fe46f6ec5b2067d72305b77d58ddcc2a8a1d",
+      "actual_sha256": "ab8bd431a907e66a3f202fb347a3fe46f6ec5b2067d72305b77d58ddcc2a8a1d",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\extension_and_axioms.log.exit",
+      "expected_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "actual_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\extension_build_receipt.json",
+      "expected_sha256": "75731ef08dd5ecb4bfb5f339a6c66edb6682118afe13babe57532749298c0b85",
+      "actual_sha256": "75731ef08dd5ecb4bfb5f339a6c66edb6682118afe13babe57532749298c0b85",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\compiler_version_receipt.json",
+      "expected_sha256": "5cf1d304b5b44f2c1cf50fab221af432ff0218d50880269da7fa5c95c7460fd7",
+      "actual_sha256": "5cf1d304b5b44f2c1cf50fab221af432ff0218d50880269da7fa5c95c7460fd7",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\compile_ErdosProblems.Erdos527.log",
+      "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\compile_ErdosProblems.Erdos527.log.exit",
+      "expected_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "actual_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\direct_lean_environment.json",
+      "expected_sha256": "b372ef28ffb6f4dda461b83e7c9bb803012a0e0c2da96d0aea93a571ba34fe59",
+      "actual_sha256": "b372ef28ffb6f4dda461b83e7c9bb803012a0e0c2da96d0aea93a571ba34fe59",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\lean-toolchain",
+      "expected_sha256": "302cd63c54178885b89e669f33b38f12f4dd7ae7e5cac537b3203e3768d8fb2b",
+      "actual_sha256": "302cd63c54178885b89e669f33b38f12f4dd7ae7e5cac537b3203e3768d8fb2b",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\lakefile.lean",
+      "expected_sha256": "be1fe13a49a52536bf453fb0d4a11192610d95136f2cf6984c269d5c178ae266",
+      "actual_sha256": "be1fe13a49a52536bf453fb0d4a11192610d95136f2cf6984c269d5c178ae266",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\lake-manifest.json",
+      "expected_sha256": "88334cc96de4bd0451f5202cfe9d5c44012440fc74bab93a1f2651420cebda17",
+      "actual_sha256": "88334cc96de4bd0451f5202cfe9d5c44012440fc74bab93a1f2651420cebda17",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\mathlib_manifest_pinned.json",
+      "expected_sha256": "1009a101f52a9d5d8ca57666f0256bae91abdb693e0f27b5a4622cffcc38cf03",
+      "actual_sha256": "1009a101f52a9d5d8ca57666f0256bae91abdb693e0f27b5a4622cffcc38cf03",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\boundedgaps-linter-v4.33.0.patch",
+      "expected_sha256": "615171deb9c162229dafed0fe1c6616f22685db56429094e60b79cbee27a6983",
+      "actual_sha256": "615171deb9c162229dafed0fe1c6616f22685db56429094e60b79cbee27a6983",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\formalpantheon-v4.33.0.patch",
+      "expected_sha256": "f64377245e03f2cbcb9d9e43f2813d4f4c734dfcd4ddce8d44ae6cc554bd121d",
+      "actual_sha256": "f64377245e03f2cbcb9d9e43f2813d4f4c734dfcd4ddce8d44ae6cc554bd121d",
+      "unchanged": true
+    },
+    {
+      "source": "G:\\jsp423_audit\\formalpantheon-v4.33.0-s2.patch",
+      "expected_sha256": "9d92da7cae70697dd576b90755c77f5e8ef28c44e705a7c432380803a53bf75b",
+      "actual_sha256": "9d92da7cae70697dd576b90755c77f5e8ef28c44e705a7c432380803a53bf75b",
+      "unchanged": true
+    }
+  ],
+  "status": "passed"
+}

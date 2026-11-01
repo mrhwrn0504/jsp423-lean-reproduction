@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "seconds": 34.48684890000004,
+  "finished_utc": "2026-11-01T10:25:00.826286+00:00",
+  "target": "JSP423Audit.partial_sums_drop_zero",
+  "command": [
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\lean.exe",
+    "-j1",
+    "-M4096",
+    "-R",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\index-inputs\\c9a8a10ba84dde38e30aa56d14c8c16a00007f36af05cdd31b8bc4a10dd1b9be",
+    "-o",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\IndexShift.olean",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\index-inputs\\c9a8a10ba84dde38e30aa56d14c8c16a00007f36af05cdd31b8bc4a10dd1b9be\\IndexShift.lean"
+  ],
+  "exit_code": 0,
+  "axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "source_sha256": "c9a8a10ba84dde38e30aa56d14c8c16a00007f36af05cdd31b8bc4a10dd1b9be",
+  "snapshot_source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\index-inputs\\c9a8a10ba84dde38e30aa56d14c8c16a00007f36af05cdd31b8bc4a10dd1b9be\\IndexShift.lean",
+  "output_sha256": "f29ce82181dc109eda214ce7b4b2fb283e51d64c0e106711f76c76112609f6be",
+  "log_sha256": "65466529fb139dafaf5f69a57f7fef44bff8167e8be38d2abdfd14066ab68d37",
+  "driver_sha256": "a8331e6a00b23e639eb454babc58819a70a83d4da04094aca5a96532c4c9ea42",
+  "compiler_sha256": "dd86e9b24990b1da425ea4af910f016e4db8f9a25c9ddad27bc6bee3690e677f",
+  "base_result_sha256": "80223051341a686351fe8d63ee2e93285f1d33bc44ea47cc9650762e87932446",
+  "scope": "Generic natural partial-sum finite-prefix identity, not an independent proof of Erdos527"
+}

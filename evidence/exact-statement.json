@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "finished_utc": "2026-11-01T07:51:17.295299+00:00",
+  "command": [
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\lean.exe",
+    "-j1",
+    "-M4096",
+    "-R",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\exact-inputs\\b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701",
+    "-o",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\ExactStatement.olean",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\exact-inputs\\b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701\\ExactStatement.lean"
+  ],
+  "exit_code": 0,
+  "targets": [
+    "JSP423Audit.original_problem",
+    "JSP423Audit.original_problem_expanded",
+    "JSP423Audit.original_problem_partial_sums"
+  ],
+  "axioms": {
+    "JSP423Audit.original_problem": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "JSP423Audit.original_problem_expanded": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "JSP423Audit.original_problem_partial_sums": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ]
+  },
+  "base_result_sha256": "80223051341a686351fe8d63ee2e93285f1d33bc44ea47cc9650762e87932446",
+  "base_audit_sha256": "b25ad08bf1f512f2be4acad074d3e3207194dc69898f07709a6d6878b8234534",
+  "checker_sha256": "a37f22ce851e0d0ead47e5d0457a88ed072f6266afd16c3ff79b4920b58e663f",
+  "source_sha256": "b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701",
+  "compiler_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\lean.exe",
+  "input_fingerprints": {
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\check_exact.py": "a37f22ce851e0d0ead47e5d0457a88ed072f6266afd16c3ff79b4920b58e663f",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\audit.py": "8989d19b2794ed4ac0f6eb70378906c3e5e40721df6d8a2f5c9c099882925d30",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\ExactStatement.lean": "b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\sources.lock.json": "7f22a9cdeb0a92e7cb1c8c801a269bf82216375c48c206eedffe6bcba6df5b39",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\lean.exe": "dd86e9b24990b1da425ea4af910f016e4db8f9a25c9ddad27bc6bee3690e677f",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\result.json": "80223051341a686351fe8d63ee2e93285f1d33bc44ea47cc9650762e87932446",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\build-environment.json": "6787040bc6d3e290b5cd56699a9ce8ec9bb4ddfd2b5eab0f504fb94bc4fb2524",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\compiled-modules.json": "882c24b923f07c143d2843b65ae9ccc775c5f3bc6bf94daccf91be8bdd20b93b",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\AdditiveLargeSieve\\FiniteDuality.olean": "dd84fdd1766e1af0226a16721ae438fa9c1a79d08adda282242df74f8300c15b",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CircleReciprocalSquarePacking.olean": "b1bb61ca8cd0fc4e07fcf71884e846742876c6caaccea80ab1b9cf3f232dfbed",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\Basic.olean": "76b285024b271700e6b03c29df9c03e5ed8af393f1c52269af4c94f16ed04d37",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantPointwise.olean": "a487d09b4473a894595a0a0ba8072bc94f4f204c13f71ca3ea2f396818eb9366",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\ReducedFractionFrequencies.olean": "6e68c1e3bac9c467d8667a8a71fb8ab1b22063abbe1e4c072457100047c01d41",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\ErdosProblems\\Erdos1028.olean": "d0485923bc4b3fb0f6c9974ee44ee447b914124eeb3418ff74c27d2eee5eb365",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\ErdosProblems\\Erdos615\\Erdos615BrunnMinkowski.olean": "f578326b3036515ce07a7e1aa1e80732860e1ed7ecd3ec313842b7b19d0f12ca",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\AdditiveLargeSieve\\ConsecutiveIntervalKernel.olean": "c1758a69e3aa53a6d3eccefa7cd1a982205605f4ce2ccaacfb7d51a02a159b34",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\FiniteExpansion.olean": "87203a72edf58bead8cd620714f506b697e83ab6d0ab191562c7c571b7b16765",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\Spectral.olean": "43b8c25a988920104ae62dbd657ed702c37f697d0a057937d7ac9da3edf31d3c",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\ErdosProblems\\Erdos88\\Invariance.olean": "7050e6b5559c82c39ec88efb6023853e7d793945429a17b5faef4963595a27dd",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\FiniteCancellation.olean": "39355d08221c041be72024ae06c1a7ffc93ce866d6a57838cc742c72ee71f2c4",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\EigenvectorCancellation.olean": "c0003ffef2f78513584998ccc84382778464ffe120aa287d0f8048dbd076336d",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\TrigonometricIdentity.olean": "e91ac415810b624ba941b521d61a300ac01a09131750c983e8239eede594c5a5",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert\\AnalyticEstimate.olean": "d1f889d007c382ed19ba000a9e95dab21b0d929aee66f5f90fc542e24852ddfd",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\CosecantHilbert.olean": "9279d1d34c2e5feedfd8969d87a0b4773f34cabf27fae961ba9c345199162db5",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\BoundedGaps\\BombieriVinogradov\\Analytic\\AdditiveLargeSieve\\ConsecutiveInterval.olean": "9f43615b0f1be3f84dbc71ac6b91772f7c6cfb21fcc732f880264215d54afa31",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\lib\\ErdosProblems\\Erdos527.olean": "288831c26fb6075167fac562787577e455a322dcc8480ebd4fed448bf50d2c80"
+  },
+  "snapshot_source": "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work\\exact-inputs\\b1f606919e31f7b70123f686d02f298fb41ec509b2c0348453b33a5480569701\\ExactStatement.lean",
+  "timings_seconds": {
+    "audit_before": 1.7894574999991164,
+    "lean": 50.780431600000156,
+    "audit_after": 1.5262157999986812,
+    "total": 54.28868599999987
+  },
+  "olean_sha256": "7ba631a4722bfe7460383c4c8089749c2ebd0e18271743b37a438ef3fd6d5d24",
+  "log_sha256": "c7ce4f4e1b899c7728f55b3290d8716dce57cd1f6a28dec0064205d5191d3ce4",
+  "scope": "New interface compilation against the audited retained base; not a fresh rebuild of 18 upstream modules"
+}

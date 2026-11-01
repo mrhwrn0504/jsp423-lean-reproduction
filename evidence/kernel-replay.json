@@ -1,0 +1,234 @@
+{
+  "status": "passed",
+  "finished_utc": "2026-11-01T07:58:48.998304+00:00",
+  "mode": "custom-closure",
+  "results": [
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality"
+      ],
+      "exit_code": 0,
+      "seconds": 13.532011299999795,
+      "log_sha256": "85b7d3d4a59a1d88fab422045075e2c065bd5fedb00b3ce9f9cab494dc2ebd73"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking"
+      ],
+      "exit_code": 0,
+      "seconds": 14.514283000000432,
+      "log_sha256": "90e06c99889d86ed7a83a474100a2b28f3894d2dcd8e8f683b441e96cd39f02c"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic"
+      ],
+      "exit_code": 0,
+      "seconds": 14.107860699999947,
+      "log_sha256": "bcc7ca0cb0635d892457aeb1a48c3e04486fbe642b02134c75bb716a82f1c07d"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise"
+      ],
+      "exit_code": 0,
+      "seconds": 13.932084899999609,
+      "log_sha256": "7d5fd88fb488015bd397c2e654daa91534a668f7296c24bd787b5dc2cf9adbf7"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies"
+      ],
+      "exit_code": 0,
+      "seconds": 14.442511600000216,
+      "log_sha256": "d75cc7b38cf39966e5cebd3b9a0293aa5b886d931e0e4fa3604b28a352be4d58"
+    },
+    {
+      "module": "ErdosProblems.Erdos1028",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "ErdosProblems.Erdos1028"
+      ],
+      "exit_code": 0,
+      "seconds": 19.383576399999583,
+      "log_sha256": "21b127f1aa3eae2a817b247a09798828427fe588c7ebb329bed432da83a86601"
+    },
+    {
+      "module": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "ErdosProblems.Erdos615.Erdos615BrunnMinkowski"
+      ],
+      "exit_code": 0,
+      "seconds": 18.48842540000078,
+      "log_sha256": "2efd70b576cc0aabfd342fc6f8e840ab2ab9c807a054fe44803a6cbd3a1de6be"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel"
+      ],
+      "exit_code": 0,
+      "seconds": 14.727851499999815,
+      "log_sha256": "c3a47042cb57ee36b75b4d2023defa6a80724021e4330e9bc91dfe3a6347cf1e"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion"
+      ],
+      "exit_code": 0,
+      "seconds": 14.083886200000052,
+      "log_sha256": "a6df4ecfb76c41cac8ad73c462da62f7f526f2da8fde185d4be09739b2cf9f8b"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral"
+      ],
+      "exit_code": 0,
+      "seconds": 14.182532400000127,
+      "log_sha256": "ca1dee3cc4065660009d92aaf8aeae301c0b4b9d85a1b008eb2217de624cddcf"
+    },
+    {
+      "module": "ErdosProblems.Erdos88.Invariance",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "ErdosProblems.Erdos88.Invariance"
+      ],
+      "exit_code": 0,
+      "seconds": 18.865719500001433,
+      "log_sha256": "bc003c6e36e9f163ea28a2b1f747bb83fbff248221830d7c9dec6c675e4a6766"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation"
+      ],
+      "exit_code": 0,
+      "seconds": 14.118100300000151,
+      "log_sha256": "4d68cc4363b8e95378d298215c98a57392072f11a364f57c7335aeac82c0e6bb"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation"
+      ],
+      "exit_code": 0,
+      "seconds": 14.266035199998441,
+      "log_sha256": "f0ad3853a9702efc904f0fd3bf65063e112031ac47e5024f627567ca7cbf16d6"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity"
+      ],
+      "exit_code": 0,
+      "seconds": 14.177522600000884,
+      "log_sha256": "b380f2e364e2654ae9d5c165ac89ef69de87256d51837b13c1d127f0b3b2f358"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate"
+      ],
+      "exit_code": 0,
+      "seconds": 14.375975499999186,
+      "log_sha256": "8148ae7f9bad9a7bacecda31b8d62818fa06d48d79ac854d566e9b2ae553f054"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert"
+      ],
+      "exit_code": 0,
+      "seconds": 37.83394930000031,
+      "log_sha256": "c48f40bb44e4e071377c7089e5b22a08e89bf4512bf933004ce075180f46e70a"
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval"
+      ],
+      "exit_code": 0,
+      "seconds": 15.134927000000971,
+      "log_sha256": "be380f4b1e53ae66c49992ee46a05fe2f618c0b2670a580ac19539d5f09204f8"
+    },
+    {
+      "module": "ErdosProblems.Erdos527",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "ErdosProblems.Erdos527"
+      ],
+      "exit_code": 0,
+      "seconds": 27.558775600000445,
+      "log_sha256": "2054fc0839bad546c0afbc90849f2e2b8c49417bb1b326654ee9d1db534fcbf2"
+    },
+    {
+      "module": "NoSquareSumHypothesis",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "NoSquareSumHypothesis"
+      ],
+      "exit_code": 0,
+      "seconds": 17.691284900000028,
+      "log_sha256": "0b8ffc1d69c0faef733c241e61308a99823c57aced4bc1a4c3c69395b610c2e4"
+    },
+    {
+      "module": "ExactStatement",
+      "command": [
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\leanchecker.exe",
+        "-v",
+        "ExactStatement"
+      ],
+      "exit_code": 0,
+      "seconds": 18.125617700001385,
+      "log_sha256": "b16437d25671ea7b24644f54cac7e4378a2c1047c2ec1e53892a6325b53fb321"
+    }
+  ],
+  "seconds": 344.5718534000007,
+  "tool_sha256": "e1ab36b0ea3d0310e3058cda1dce1c072f78c5938303e8596fa3f24267c715ce",
+  "driver_sha256": "a6cadbc93c44a7ceb06ac4833853de404ff5370bfa9e196de5bab07aee40a112",
+  "exact_receipt_sha256": "a4ec965fd09628147a55d5c4b2d167a44aa137fac914233b28d3e8095248b936",
+  "independent_kernel": false,
+  "fresh_environment": false,
+  "limitation": "Same Lean kernel replay; imported Mathlib constants are trusted, not replayed from an empty environment"
+}

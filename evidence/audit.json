@@ -1,0 +1,588 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-11-01T10:38:37.536015+00:00",
+  "checks": [
+    {
+      "name": "latest status and result passed",
+      "passed": true
+    },
+    {
+      "name": "lock digest",
+      "passed": true
+    },
+    {
+      "name": "driver digest",
+      "passed": true
+    },
+    {
+      "name": "exactly 18 custom modules",
+      "passed": true
+    },
+    {
+      "name": "exact compiled module set",
+      "passed": true
+    },
+    {
+      "name": "fixed compiler version",
+      "passed": true
+    },
+    {
+      "name": "compiler digest",
+      "passed": true
+    },
+    {
+      "name": "compiler sysroot matches receipt",
+      "passed": true
+    },
+    {
+      "name": "only isolated library search roots",
+      "passed": true
+    },
+    {
+      "name": "build time interval exists",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 original bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 prepared source",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 output bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 compiler exit",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos527 fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval fresh output time",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski original bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski prepared source",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski output bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski compiler exit",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski fresh output time",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance original bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance prepared source",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance output bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance compiler exit",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos88.Invariance fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert fresh output time",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 original bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 prepared source",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 output bytes",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 compiler exit",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "ErdosProblems.Erdos1028 fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic fresh output time",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion original bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion prepared source",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion output bytes",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion compiler exit",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion explicit source and output",
+      "passed": true
+    },
+    {
+      "name": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion fresh output time",
+      "passed": true
+    },
+    {
+      "name": "patch digest",
+      "passed": true
+    },
+    {
+      "name": "patch-check exit code",
+      "passed": true
+    },
+    {
+      "name": "patch-apply exit code",
+      "passed": true
+    },
+    {
+      "name": "mathlib-cache exit code",
+      "passed": true
+    },
+    {
+      "name": "extension-axioms exit code",
+      "passed": true
+    },
+    {
+      "name": "extension source",
+      "passed": true
+    },
+    {
+      "name": "extension output",
+      "passed": true
+    },
+    {
+      "name": "exact target set",
+      "passed": true
+    },
+    {
+      "name": "Erdos527.erdos_527 actual standard axioms",
+      "passed": true
+    },
+    {
+      "name": "JSP423Audit.literal_statement actual standard axioms",
+      "passed": true
+    },
+    {
+      "name": "JSP423Audit.ae_convergence_without_square_sum_divergence actual standard axioms",
+      "passed": true
+    },
+    {
+      "name": "statement inspection exit code",
+      "passed": true
+    },
+    {
+      "name": "statement inspection uses this build",
+      "passed": true
+    },
+    {
+      "name": "statement inspection uses this extension",
+      "passed": true
+    },
+    {
+      "name": "statement inspection uses this compiler",
+      "passed": true
+    },
+    {
+      "name": "statement inspection source",
+      "passed": true
+    },
+    {
+      "name": "statement inspection log",
+      "passed": true
+    },
+    {
+      "name": "complete Mathlib manifest",
+      "passed": true
+    },
+    {
+      "name": "mathlib fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "plausible fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "LeanSearchClient fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "importGraph fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "proofwidgets fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "aesop fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "Qq fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "batteries fixed clean revision",
+      "passed": true
+    },
+    {
+      "name": "Cli fixed clean revision",
+      "passed": true
+    }
+  ],
+  "result_sha256": "80223051341a686351fe8d63ee2e93285f1d33bc44ea47cc9650762e87932446",
+  "limitation": "Evidence audit, not another Lean kernel or an original mathematical proof"
+}

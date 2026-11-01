@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "mode": "retained",
+  "stages": [
+    {
+      "name": "interface",
+      "command": [
+        "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-I",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\check_exact.py",
+        "--work-dir",
+        "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_work",
+        "--reuse"
+      ],
+      "exit_code": 0,
+      "seconds": 0.7480537000010372,
+      "log_sha256": "fe0535aa4dd01fa81c8112f0fda72061d5194eb8aba333879b9b8d31b1735d29"
+    }
+  ],
+  "finished_utc": "2026-11-01T07:52:44.164660+00:00",
+  "seconds": 0.8361535999993066,
+  "driver_sha256": "b37646842b264f185dd6c703e7b74fb4deb5ccb6681075ef4524c7c50efee20b",
+  "manifest_sha256": "c07bfddb1764b25ec62687f367ba89e131d69e276528dab3359ac8787ae96f82",
+  "targets": {
+    "problem": "JSP-000423",
+    "erdos_problem": 527,
+    "proof_module": "ErdosProblems.Erdos527",
+    "upstream_target": "Erdos527.erdos_527",
+    "interface_targets": [
+      "JSP423Audit.original_problem",
+      "JSP423Audit.original_problem_expanded",
+      "JSP423Audit.original_problem_partial_sums"
+    ],
+    "semantic_bridge": "JSP423Audit.seriesConvergesAt_iff_partialSums",
+    "model_declarations": [
+      "Erdos527.rademacherMeasure_singleton_one",
+      "Erdos527.rademacherMeasure_singleton_neg_one",
+      "Erdos527.ae_rademacherProduct_signs",
+      "Erdos527.rademacherProductMeasure_map_eval",
+      "Erdos527.iIndepFun_eval_rademacherProduct"
+    ],
+    "scope": "Real coefficients, original hypotheses, signing-dependent unit-circle point, natural-order convergence"
+  },
+  "exact_receipt_sha256": "a4ec965fd09628147a55d5c4b2d167a44aa137fac914233b28d3e8095248b936",
+  "target_inspection_sha256": "fcb8135a97e02ca6c9c9bce023f7644a03d2f4b1d6d4268cacb0b1f08a155d6f",
+  "newly_compiled_upstream_modules": 0,
+  "new_interface_compilation": false,
+  "independent_kernel_replay": false
+}

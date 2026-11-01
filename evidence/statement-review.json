@@ -1,0 +1,17 @@
+{
+  "exit_code": 0,
+  "command": [
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain\\bin\\lean.exe",
+    "-j1",
+    "-M4096",
+    "-R",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro",
+    "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\ReviewTargets.lean"
+  ],
+  "finished_utc": "2026-11-01T06:27:24.770269+00:00",
+  "result_sha256": "80223051341a686351fe8d63ee2e93285f1d33bc44ea47cc9650762e87932446",
+  "extension_olean_sha256": "9cd4a815591a9a0fb86a4a4834cd8a463e2c9d768571f2dfe5497abf5f52ad4f",
+  "compiler_sha256": "dd86e9b24990b1da425ea4af910f016e4db8f9a25c9ddad27bc6bee3690e677f",
+  "source_sha256": "2b9444318302577e0351f9c907ddf5ecec0c28a67a2f49583632724a6f646ed3",
+  "log_sha256": "67df2de632ef5a8f1f9a9a52871259d0ad22263d1d85e851678ef72a3a92f3f2"
+}

@@ -1,0 +1,8 @@
+{
+  "archive_sha256": "301edc4cf03571c839cd7bf73ec850921f36d9451dbec68da557969a845726d9",
+  "expected_official_release_sha256": "301edc4cf03571c839cd7bf73ec850921f36d9451dbec68da557969a845726d9",
+  "source": "https://github.com/leanprover/lean4/releases/download/v4.33.0/lean-4.33.0-windows.zip",
+  "archive_reused_from_previous_download": true,
+  "destination": "C:\\Users\\Administrator\\Documents\\ChatGPT\\New project 3\\jsp423-repro\\_toolchain",
+  "note": "Fresh complete extraction; zipfile verifies member CRC on read"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "declarations": [
+    "Erdos527.erdos_527",
+    "JSP423Audit.original_problem",
+    "JSP423Audit.original_problem_expanded",
+    "JSP423Audit.original_problem_partial_sums",
+    "JSP423Audit.seriesConvergesAt_iff_partialSums",
+    "Erdos527.rademacherMeasure_singleton_one",
+    "Erdos527.rademacherMeasure_singleton_neg_one",
+    "Erdos527.ae_rademacherProduct_signs",
+    "Erdos527.rademacherProductMeasure_map_eval",
+    "Erdos527.iIndepFun_eval_rademacherProduct"
+  ],
+  "manifest_sha256": "c07bfddb1764b25ec62687f367ba89e131d69e276528dab3359ac8787ae96f82",
+  "exact_receipt_sha256": "a4ec965fd09628147a55d5c4b2d167a44aa137fac914233b28d3e8095248b936",
+  "source_sha256": "96892fe7a06832726531769588d8850e885daebc863e433773e12e44bf82369a",
+  "log_sha256": "7ee83e31c2525d47bf732dc7579d9f13c99907ffece6c16c57c9544f38e687e7"
+}

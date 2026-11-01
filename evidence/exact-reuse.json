@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "mode": "validated-cache-reuse",
+  "finished_utc": "2026-11-01T07:52:44.064596+00:00",
+  "seconds": 0.6614736999999877,
+  "exact_receipt_sha256": "a4ec965fd09628147a55d5c4b2d167a44aa137fac914233b28d3e8095248b936",
+  "targets": [
+    "JSP423Audit.original_problem",
+    "JSP423Audit.original_problem_expanded",
+    "JSP423Audit.original_problem_partial_sums"
+  ],
+  "new_lean_execution": false
+}

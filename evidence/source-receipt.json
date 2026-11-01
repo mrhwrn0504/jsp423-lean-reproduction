@@ -1,0 +1,213 @@
+{
+  "modules": [
+    {
+      "module": "ErdosProblems.Erdos527",
+      "path": "ErdosProblems/Erdos527.lean",
+      "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/ErdosProblems/Erdos527.lean",
+      "original_sha256": "4f9b02f27f12f79255a869a6b12fbd7daa91dcc503e0c0069b853a8ea4dfe0ac",
+      "prepared_lf_sha256": "4f9b02f27f12f79255a869a6b12fbd7daa91dcc503e0c0069b853a8ea4dfe0ac",
+      "imports": [
+        "Mathlib",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval",
+        "ErdosProblems.Erdos615.Erdos615BrunnMinkowski",
+        "ErdosProblems.Erdos88.Invariance"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveInterval.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveInterval.lean",
+      "original_sha256": "8d558ec5f0ec56d55b6acc434e7e3f2544ec69c14d06eedaf90fcd1023bec191",
+      "prepared_lf_sha256": "8d558ec5f0ec56d55b6acc434e7e3f2544ec69c14d06eedaf90fcd1023bec191",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality",
+        "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel"
+      ]
+    },
+    {
+      "module": "ErdosProblems.Erdos615.Erdos615BrunnMinkowski",
+      "path": "ErdosProblems/Erdos615/Erdos615BrunnMinkowski.lean",
+      "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/ErdosProblems/Erdos615/Erdos615BrunnMinkowski.lean",
+      "original_sha256": "ea53f084ea7ed0d7d53f685401f764bf0ea904ffa2bb3d990d5fe3aaf2f5e702",
+      "prepared_lf_sha256": "ea53f084ea7ed0d7d53f685401f764bf0ea904ffa2bb3d990d5fe3aaf2f5e702",
+      "imports": [
+        "Mathlib"
+      ]
+    },
+    {
+      "module": "ErdosProblems.Erdos88.Invariance",
+      "path": "ErdosProblems/Erdos88/Invariance.lean",
+      "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/ErdosProblems/Erdos88/Invariance.lean",
+      "original_sha256": "3a7f673a11589cf1fea477099bd8893f749d1551abe80a177487b8fcfcec1330",
+      "prepared_lf_sha256": "3a7f673a11589cf1fea477099bd8893f749d1551abe80a177487b8fcfcec1330",
+      "imports": [
+        "ErdosProblems.Erdos1028",
+        "Mathlib.Analysis.Calculus.Taylor",
+        "Mathlib.MeasureTheory.Integral.Pi",
+        "Mathlib.Probability.Distributions.Gaussian.Real",
+        "Mathlib.Probability.Distributions.Uniform",
+        "Mathlib.Probability.ProbabilityMassFunction.Integrals",
+        "Mathlib.Probability.UniformOn"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean",
+      "original_sha256": "8a396d8071fab536c01e2cb5ddc48e8908e97aa098bc07f589e881403eda517c",
+      "prepared_lf_sha256": "dda5db9030a0f4617bc649f75faf73e8ff5c64f5c35e3fb300d7c7dab37e05e2",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies",
+        "Mathlib.Algebra.Field.GeomSum",
+        "Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/FiniteDuality.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/FiniteDuality.lean",
+      "original_sha256": "8b5b300f6f435bcc2b7d34681bbdaaf0cbe3d2c4e1d2e5b4a0e3be6ad659b2ff",
+      "prepared_lf_sha256": "8b5b300f6f435bcc2b7d34681bbdaaf0cbe3d2c4e1d2e5b4a0e3be6ad659b2ff",
+      "imports": [
+        "Mathlib.Algebra.Order.BigOperators.Ring.Finset",
+        "Mathlib.Analysis.Complex.Basic",
+        "Mathlib.Tactic.Ring"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert.lean",
+      "original_sha256": "9857edea1f471478f05e71fd23e73584a471458d5c551ef8b4290537ee026d02",
+      "prepared_lf_sha256": "9857edea1f471478f05e71fd23e73584a471458d5c551ef8b4290537ee026d02",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate"
+      ]
+    },
+    {
+      "module": "ErdosProblems.Erdos1028",
+      "path": "ErdosProblems/Erdos1028.lean",
+      "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/ErdosProblems/Erdos1028.lean",
+      "original_sha256": "6dd15c2d5fd5cd1d4b5df642c0d7d9a20742b84ce3e9037ed148a295ca6bba3b",
+      "prepared_lf_sha256": "6dd15c2d5fd5cd1d4b5df642c0d7d9a20742b84ce3e9037ed148a295ca6bba3b",
+      "imports": [
+        "Mathlib"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/AnalyticEstimate.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/AnalyticEstimate.lean",
+      "original_sha256": "0b59528b5ed6ec675aabca0dbd6c5617080ba3933cd6142bff819045cda89487",
+      "prepared_lf_sha256": "0b59528b5ed6ec675aabca0dbd6c5617080ba3933cd6142bff819045cda89487",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity",
+        "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/ReducedFractionFrequencies.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/ReducedFractionFrequencies.lean",
+      "original_sha256": "e9e80d24659c5abe1cc48237e1ce69bb7fa4e85cfa51817b4d0e08e6585ee475",
+      "prepared_lf_sha256": "e9e80d24659c5abe1cc48237e1ce69bb7fa4e85cfa51817b4d0e08e6585ee475",
+      "imports": [
+        "Mathlib.Analysis.Normed.Group.AddCircle",
+        "Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar",
+        "Mathlib.Data.ZMod.Units"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CircleReciprocalSquarePacking.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CircleReciprocalSquarePacking.lean",
+      "original_sha256": "72f3f029d0bc6139457593b825892bd8c6d4463f23a1d866bac62f8ff5a8eead",
+      "prepared_lf_sha256": "72f3f029d0bc6139457593b825892bd8c6d4463f23a1d866bac62f8ff5a8eead",
+      "imports": [
+        "Mathlib.Analysis.Normed.Group.AddCircle",
+        "Mathlib.NumberTheory.ZetaValues"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/EigenvectorCancellation.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/EigenvectorCancellation.lean",
+      "original_sha256": "809dedd3a0b94eb32014b985ba75c46caf749dbcf5ac92dc1589a32213efd485",
+      "prepared_lf_sha256": "809dedd3a0b94eb32014b985ba75c46caf749dbcf5ac92dc1589a32213efd485",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation",
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/TrigonometricIdentity.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/TrigonometricIdentity.lean",
+      "original_sha256": "7c75249a14dddcc351d45d643684896c95352c9e1a63b1a986bdd8f047449699",
+      "prepared_lf_sha256": "7c75249a14dddcc351d45d643684896c95352c9e1a63b1a986bdd8f047449699",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation",
+        "Mathlib.Analysis.Normed.Group.AddCircle"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantPointwise.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantPointwise.lean",
+      "original_sha256": "71a92798a4146873dd52ff7f948cd4ef6ed4c58a82a49b491d126a3a0d7c7305",
+      "prepared_lf_sha256": "71a92798a4146873dd52ff7f948cd4ef6ed4c58a82a49b491d126a3a0d7c7305",
+      "imports": [
+        "Mathlib.Analysis.Normed.Group.AddCircle",
+        "Mathlib.Analysis.Real.Pi.Bounds",
+        "Mathlib.Analysis.SpecialFunctions.Trigonometric.Bounds"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/FiniteCancellation.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/FiniteCancellation.lean",
+      "original_sha256": "3e99cd3bf25c5ffcf8038b880bb7cf9ef78a6f8f3bb30d9254332034a2b145b0",
+      "prepared_lf_sha256": "3e99cd3bf25c5ffcf8038b880bb7cf9ef78a6f8f3bb30d9254332034a2b145b0",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion",
+        "Mathlib.Tactic.LinearCombination"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/Spectral.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/Spectral.lean",
+      "original_sha256": "c449fb610795bf1e4ca986ddfb1fe700505f6de4966a6241080b95ed62f94285",
+      "prepared_lf_sha256": "c449fb610795bf1e4ca986ddfb1fe700505f6de4966a6241080b95ed62f94285",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic",
+        "Mathlib.Analysis.Matrix.Spectrum"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/Basic.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/Basic.lean",
+      "original_sha256": "4192028c6749768cd8c4f32cb1804541dc3dce63f8fa449ddbb1c59f4f51ff91",
+      "prepared_lf_sha256": "4192028c6749768cd8c4f32cb1804541dc3dce63f8fa449ddbb1c59f4f51ff91",
+      "imports": [
+        "Mathlib.Analysis.Matrix.Hermitian",
+        "Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic"
+      ]
+    },
+    {
+      "module": "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion",
+      "path": "BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/FiniteExpansion.lean",
+      "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/BoundedGaps/BoundedGaps/BombieriVinogradov/Analytic/CosecantHilbert/FiniteExpansion.lean",
+      "original_sha256": "08baefeaa7b408ba81eaf2ab088ca12043269019930579c9707ebba56aa8c48a",
+      "prepared_lf_sha256": "08baefeaa7b408ba81eaf2ab088ca12043269019930579c9707ebba56aa8c48a",
+      "imports": [
+        "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic"
+      ]
+    }
+  ],
+  "patch_sha256": "ae869ff390ee4b054e479ec53d8f5f834983f470d84abcbcb3cdfdce471dd631"
+}

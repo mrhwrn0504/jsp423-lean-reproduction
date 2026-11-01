@@ -1,0 +1,92 @@
+{
+  "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.FiniteDuality": {
+    "source_sha256": "8b5b300f6f435bcc2b7d34681bbdaaf0cbe3d2c4e1d2e5b4a0e3be6ad659b2ff",
+    "olean_sha256": "dd84fdd1766e1af0226a16721ae438fa9c1a79d08adda282242df74f8300c15b",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CircleReciprocalSquarePacking": {
+    "source_sha256": "72f3f029d0bc6139457593b825892bd8c6d4463f23a1d866bac62f8ff5a8eead",
+    "olean_sha256": "b1bb61ca8cd0fc4e07fcf71884e846742876c6caaccea80ab1b9cf3f232dfbed",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Basic": {
+    "source_sha256": "4192028c6749768cd8c4f32cb1804541dc3dce63f8fa449ddbb1c59f4f51ff91",
+    "olean_sha256": "76b285024b271700e6b03c29df9c03e5ed8af393f1c52269af4c94f16ed04d37",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantPointwise": {
+    "source_sha256": "71a92798a4146873dd52ff7f948cd4ef6ed4c58a82a49b491d126a3a0d7c7305",
+    "olean_sha256": "a487d09b4473a894595a0a0ba8072bc94f4f204c13f71ca3ea2f396818eb9366",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.ReducedFractionFrequencies": {
+    "source_sha256": "e9e80d24659c5abe1cc48237e1ce69bb7fa4e85cfa51817b4d0e08e6585ee475",
+    "olean_sha256": "6e68c1e3bac9c467d8667a8a71fb8ab1b22063abbe1e4c072457100047c01d41",
+    "exit_code": 0
+  },
+  "ErdosProblems.Erdos1028": {
+    "source_sha256": "6dd15c2d5fd5cd1d4b5df642c0d7d9a20742b84ce3e9037ed148a295ca6bba3b",
+    "olean_sha256": "d0485923bc4b3fb0f6c9974ee44ee447b914124eeb3418ff74c27d2eee5eb365",
+    "exit_code": 0
+  },
+  "ErdosProblems.Erdos615.Erdos615BrunnMinkowski": {
+    "source_sha256": "ea53f084ea7ed0d7d53f685401f764bf0ea904ffa2bb3d990d5fe3aaf2f5e702",
+    "olean_sha256": "f578326b3036515ce07a7e1aa1e80732860e1ed7ecd3ec313842b7b19d0f12ca",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveIntervalKernel": {
+    "source_sha256": "dda5db9030a0f4617bc649f75faf73e8ff5c64f5c35e3fb300d7c7dab37e05e2",
+    "olean_sha256": "c1758a69e3aa53a6d3eccefa7cd1a982205605f4ce2ccaacfb7d51a02a159b34",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteExpansion": {
+    "source_sha256": "08baefeaa7b408ba81eaf2ab088ca12043269019930579c9707ebba56aa8c48a",
+    "olean_sha256": "87203a72edf58bead8cd620714f506b697e83ab6d0ab191562c7c571b7b16765",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.Spectral": {
+    "source_sha256": "c449fb610795bf1e4ca986ddfb1fe700505f6de4966a6241080b95ed62f94285",
+    "olean_sha256": "43b8c25a988920104ae62dbd657ed702c37f697d0a057937d7ac9da3edf31d3c",
+    "exit_code": 0
+  },
+  "ErdosProblems.Erdos88.Invariance": {
+    "source_sha256": "3a7f673a11589cf1fea477099bd8893f749d1551abe80a177487b8fcfcec1330",
+    "olean_sha256": "7050e6b5559c82c39ec88efb6023853e7d793945429a17b5faef4963595a27dd",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.FiniteCancellation": {
+    "source_sha256": "3e99cd3bf25c5ffcf8038b880bb7cf9ef78a6f8f3bb30d9254332034a2b145b0",
+    "olean_sha256": "39355d08221c041be72024ae06c1a7ffc93ce866d6a57838cc742c72ee71f2c4",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.EigenvectorCancellation": {
+    "source_sha256": "809dedd3a0b94eb32014b985ba75c46caf749dbcf5ac92dc1589a32213efd485",
+    "olean_sha256": "c0003ffef2f78513584998ccc84382778464ffe120aa287d0f8048dbd076336d",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.TrigonometricIdentity": {
+    "source_sha256": "7c75249a14dddcc351d45d643684896c95352c9e1a63b1a986bdd8f047449699",
+    "olean_sha256": "e91ac415810b624ba941b521d61a300ac01a09131750c983e8239eede594c5a5",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert.AnalyticEstimate": {
+    "source_sha256": "0b59528b5ed6ec675aabca0dbd6c5617080ba3933cd6142bff819045cda89487",
+    "olean_sha256": "d1f889d007c382ed19ba000a9e95dab21b0d929aee66f5f90fc542e24852ddfd",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.CosecantHilbert": {
+    "source_sha256": "9857edea1f471478f05e71fd23e73584a471458d5c551ef8b4290537ee026d02",
+    "olean_sha256": "9279d1d34c2e5feedfd8969d87a0b4773f34cabf27fae961ba9c345199162db5",
+    "exit_code": 0
+  },
+  "BoundedGaps.BombieriVinogradov.Analytic.AdditiveLargeSieve.ConsecutiveInterval": {
+    "source_sha256": "8d558ec5f0ec56d55b6acc434e7e3f2544ec69c14d06eedaf90fcd1023bec191",
+    "olean_sha256": "9f43615b0f1be3f84dbc71ac6b91772f7c6cfb21fcc732f880264215d54afa31",
+    "exit_code": 0
+  },
+  "ErdosProblems.Erdos527": {
+    "source_sha256": "4f9b02f27f12f79255a869a6b12fbd7daa91dcc503e0c0069b853a8ea4dfe0ac",
+    "olean_sha256": "288831c26fb6075167fac562787577e455a322dcc8480ebd4fed448bf50d2c80",
+    "exit_code": 0
+  }
+}

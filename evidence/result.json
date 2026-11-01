@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "finished_utc": "2026-11-01T06:26:25.645902+00:00",
+  "custom_modules": 18,
+  "extension_sha256": "d948eeb708c3d52f6ed5f7bfafc53029fdebd222579bc11d91900b6eb8c2e38d",
+  "extension_olean_sha256": "9cd4a815591a9a0fb86a4a4834cd8a463e2c9d768571f2dfe5497abf5f52ad4f",
+  "axioms": {
+    "JSP423Audit.ae_convergence_without_square_sum_divergence": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "JSP423Audit.literal_statement": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "Erdos527.erdos_527": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ]
+  },
+  "compiler_sha256": "dd86e9b24990b1da425ea4af910f016e4db8f9a25c9ddad27bc6bee3690e677f",
+  "lock_sha256": "7f22a9cdeb0a92e7cb1c8c801a269bf82216375c48c206eedffe6bcba6df5b39",
+  "driver_sha256": "0d0174ed80044c8035de6249567b6a0a6339bfb5a91d75743445a95944bb6ea0",
+  "scope": "Fresh custom compilation; official Mathlib cache; no award/novelty claim"
+}
