@@ -1,0 +1,12 @@
+[
+  {
+    "file": "Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/frenzymath/FormalPantheon/ffbb65c21afc8a36ace67720f1b0df1c63d26bd1/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "plby-latest-NOTICE.txt",
+    "url": "https://raw.githubusercontent.com/plby/lean-proofs/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/LICENSE",
+    "sha256": "41e26750cf7403beef1b82310454ca79eb1da04b1dab82d4d42f377e15c01ea9"
+  }
+]
