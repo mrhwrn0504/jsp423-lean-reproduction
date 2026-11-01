@@ -1,0 +1,20 @@
+{
+  "problem": "JSP-000423",
+  "erdos_problem": 527,
+  "proof_module": "ErdosProblems.Erdos527",
+  "upstream_target": "Erdos527.erdos_527",
+  "interface_targets": [
+    "JSP423Audit.original_problem",
+    "JSP423Audit.original_problem_expanded",
+    "JSP423Audit.original_problem_partial_sums"
+  ],
+  "semantic_bridge": "JSP423Audit.seriesConvergesAt_iff_partialSums",
+  "model_declarations": [
+    "Erdos527.rademacherMeasure_singleton_one",
+    "Erdos527.rademacherMeasure_singleton_neg_one",
+    "Erdos527.ae_rademacherProduct_signs",
+    "Erdos527.rademacherProductMeasure_map_eval",
+    "Erdos527.iIndepFun_eval_rademacherProduct"
+  ],
+  "scope": "Real coefficients, original hypotheses, signing-dependent unit-circle point, natural-order convergence"
+}

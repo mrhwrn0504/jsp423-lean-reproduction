@@ -1,0 +1,6 @@
+_work/
+_incremental/
+_toolchain/
+*.olean
+*.ilean
+__pycache__/
