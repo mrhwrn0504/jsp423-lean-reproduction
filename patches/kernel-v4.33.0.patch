@@ -1,0 +1,32 @@
+diff --git a/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean b/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean
+index a4c9736..754603a 100644
+--- a/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean
++++ b/BoundedGaps/BombieriVinogradov/Analytic/AdditiveLargeSieve/ConsecutiveIntervalKernel.lean
+@@ -106,22 +106,11 @@ private lemma sum_Ioc_nat_eq_sum_range_succ
+     {A : Type*} [AddCommMonoid A] (f : ℕ → A) (m0 N : ℕ) :
+     (∑ n ∈ Finset.Ioc m0 (m0 + N), f n) =
+       ∑ k ∈ Finset.range N, f (m0 + k + 1) := by
+-  let e : ℕ ↪ ℕ :=
+-    ⟨fun k ↦ m0 + k + 1, by intro a b hab; dsimp at hab; omega⟩
+-  have hset : Finset.Ioc m0 (m0 + N) = (Finset.range N).map e := by
+-    ext n
+-    simp only [Finset.mem_Ioc, Finset.mem_map, Finset.mem_range, e]
+-    constructor
+-    · intro hn
+-      dsimp [e]
+-      refine ⟨n - m0 - 1, ?_, ?_⟩
+-      · omega
+-      · omega
+-    · rintro ⟨k, hk, rfl⟩
+-      dsimp [e]
+-      omega
+-  rw [hset, Finset.sum_map]
+-  simp [e]
++  induction N with
++  | zero => simp
++  | succ N ih =>
++      rw [show m0 + (N + 1) = (m0 + N) + 1 by omega,
++        Finset.sum_Ioc_succ_top (by omega) f, ih, Finset.sum_range_succ]
+
+ private lemma sum_phase_Ioc (t : ℝ) (ht : (t : UnitAddCircle) ≠ 0)
+     (m0 N : ℕ) :
