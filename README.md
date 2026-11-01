@@ -25,21 +25,6 @@ The problem interfaces call the existing upstream theorem. The optional
 `NoSquareSumHypothesis.lean` interface does not replace them. See
 [STATEMENT.md](STATEMENT.md) and [REVIEW-PACKET.md](REVIEW-PACKET.md).
 
-## Mathematical source and attribution
-
-Mathematics: Marcus Michelen and Mehtaab Sawhney,
-[paper](https://arxiv.org/html/2509.02729v1).
-The pinned [plby source](https://github.com/plby/lean-proofs/blob/8822f7ddef30fadbd92e1c6ab4ed897af356af5e/src/latest/ErdosProblems/Erdos527.lean)
-credits Codex and GPT-5.6 Sol for formalization.
-
-Local contributions are interfaces, input binding, reproduction and incremental
-drivers, and review documentation. They do not transfer upstream authorship or
-priority. See [ATTRIBUTION.md](ATTRIBUTION.md) and `licenses/`. Retain upstream
-notices when redistributing downloaded source.
-
-Local reproduction, interface and tooling contributor: **王泉智**
-([`mrhwrn0504`](https://github.com/mrhwrn0504)), with Codex assistance.
-
 ## Pinned environment and reproduction
 
 Python 3.11+, Git, Lean **4.33.0**. The toolchain is in `lean-toolchain`;
