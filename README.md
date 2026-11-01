@@ -71,7 +71,16 @@ independent kernel or a complete Mathlib recheck.
 
 ## Historical verification evidence
 
-`evidence/` contains records from the original working directories on
+The complete `evidence/` tree (including empty logs and source snapshots) is
+in `verification-evidence.zip`; major JSON receipts are also browsable directly.
+The archive includes `external-runs/d-full-build.zip` for the separate D: full
+workflow. Extract it from this repository directory with:
+
+```text
+python -m zipfile -e verification-evidence.zip .
+```
+
+These records come from the original working directories on
 2026-11-01, not this publication tree. Absolute paths identify those runs.
 Publishing a new Git commit does not renew their verification date.
 
@@ -91,8 +100,8 @@ rebuild or a formal coefficient non-vacuity witness.
 ## Publication and prize status
 
 Repository: [mrhwrn0504/jsp423-lean-reproduction](https://github.com/mrhwrn0504/jsp423-lean-reproduction), branch `main`.
-Published as reproduction and review tooling. No prize PR or award claim has
-been submitted. The publication commit is distinct from the pinned upstream
+Published as reproduction and review tooling. Any linked official PR concerns
+supplemental documentation, not an award claim or first-formalization credit. The publication commit is distinct from the pinned upstream
 proof and the historical checked working directories.
 
 Existing registrations [#1256](https://github.com/TheJustinSunPrize/awards/pull/1256)

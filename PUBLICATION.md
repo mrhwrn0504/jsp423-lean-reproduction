@@ -30,5 +30,6 @@ The [official template](https://github.com/TheJustinSunPrize/awards/blob/main/.g
 requires attributable contribution evidence and a pinned public commit. The
 publication commit is separate from the fixed upstream proof. Reproduction cannot be submitted
 as the publisher's first complete proof, and no duplicate catalog claim for
-the plby proof is prepared. No prize PR, claim issue or external comment has
-been sent. A future distinct contribution requires its own scope and attribution assessment.
+the plby proof is prepared. An official catalog PR may link these supplemental review materials without
+claiming first-formalization credit. No award application is made. A future
+distinct proof contribution requires its own scope and attribution assessment.
