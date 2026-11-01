@@ -37,6 +37,9 @@ drivers, and review documentation. They do not transfer upstream authorship or
 priority. See [ATTRIBUTION.md](ATTRIBUTION.md) and `licenses/`. Retain upstream
 notices when redistributing downloaded source.
 
+Local reproduction, interface and tooling contributor: **王泉智**
+([`mrhwrn0504`](https://github.com/mrhwrn0504)), with Codex assistance.
+
 ## Pinned environment and reproduction
 
 Python 3.11+, Git, Lean **4.33.0**. The toolchain is in `lean-toolchain`;
